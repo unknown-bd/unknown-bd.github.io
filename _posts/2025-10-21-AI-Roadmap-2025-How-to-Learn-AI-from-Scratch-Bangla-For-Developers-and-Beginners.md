@@ -7,7 +7,7 @@ tags: [notes, youtube,youtube-notes, one-shot-youtube-video-notes]
 render_with_liquid: false
 media_subpath: /images/2025-10-21-Day-57-Web-Sockets-Vulnerabilities-Bug-Bounty-Free-Course
 image:
-  path: banner.png
+  path: "/images/2025-10-21-AI-Roadmap-2025-How-to-Learn-AI-from-Scratch-Bangla-For-Developers-and-Beginners/banner.png"
 ---
 
 ![Banner](banner.png){: .rounded-10 .shadow}
