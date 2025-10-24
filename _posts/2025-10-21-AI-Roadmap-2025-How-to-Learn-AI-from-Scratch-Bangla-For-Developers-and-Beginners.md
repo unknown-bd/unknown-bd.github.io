@@ -10,8 +10,6 @@ image:
   path: banner.png
 ---
 
-![Banner](banner.png){: .rounded-10 .shadow}
-
 Here is the YouTube Video. [Cleck here to watch the video](https://www.youtube.com/watch?v=lg4uP7QjIZk)
 
 ## Prerequisites 
