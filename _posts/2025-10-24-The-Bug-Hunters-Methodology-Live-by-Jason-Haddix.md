@@ -1,7 +1,7 @@
 ---
-title: The Bug Hunter's Methodology Live by Jason Haddix
+title: The Bug Hunters Methodology Live by Jason Haddix
 description: Json Haddix
-date: `2025-10-24` 12:00:00
+date: 2025-10-24 12:00:00
 categories: [Notes, Course Notes]
 tags: [notes,course-notes]
 render_with_liquid: false
@@ -332,6 +332,6 @@ Best XSS Methodology
      enddate
     ```
     
-- IDOR Video  -https://www.youtube.com/watch?v=2WzqH6N-Gbc
+- IDOR Video  - https://www.youtube.com/watch?v=2WzqH6N-Gbc
 
 ## Day 02 End
