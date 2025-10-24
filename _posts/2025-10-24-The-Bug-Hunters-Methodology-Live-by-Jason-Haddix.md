@@ -279,7 +279,7 @@ echo bugcrowd.com | gau | wordlistgen | sort -u
     - Where : `Cookie`, `API Calls`.
 - Make sure you know How dose the application stores data.
 
-Head Mapping - Where is most  vulnerability found.
+### Head Mapping - Where is most  vulnerability found.
 
 - **Upload Function** : It can be document upload, profile upload or anything website take data from third party.
 - **Content Type**
