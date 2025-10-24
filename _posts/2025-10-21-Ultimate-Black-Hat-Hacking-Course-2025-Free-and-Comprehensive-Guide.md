@@ -6,9 +6,9 @@ categories: [Notes, YouTube Notes]
 tags: [notes, youtube,youtube-notes, one-shot-youtube-video-notes]
 render_with_liquid: false
 media_subpath: /images/2025-10-21-Ultimate-Black-Hat-Hacking-Course-2025-Free-and-Comprehensive-Guide
+image:
+  path: banner.png
 ---
-
-![Banner](banner.jpg)
 
 Video Link : [Here](https://www.youtube.com/watch?v=GjBTQnWwnLg)
 

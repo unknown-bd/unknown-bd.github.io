@@ -15,9 +15,9 @@ tags:
   ]
 render_with_liquid: false
 media_subpath: /images/2025-10-22-Reflected-XSS-into-HTML-context-with-nothing-encoded
+image:
+  path: portswigger_logo.png
 ---
-
-![Banner](portswigger_logo.png){: .rounded-10 .shadow}
 
 # Lab: Reflected XSS into HTML context with nothing encoded
 

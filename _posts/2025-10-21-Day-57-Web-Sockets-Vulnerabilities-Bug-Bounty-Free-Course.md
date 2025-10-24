@@ -6,9 +6,9 @@ categories: [Notes, YouTube Notes]
 tags: [notes, youtube,youtube-notes, one-shot-youtube-video-notes, playlists]
 render_with_liquid: false
 media_subpath: /images/2025-10-21-Day-57-Web-Sockets-Vulnerabilities-Bug-Bounty-Free-Course
+image:
+  path: banner.png
 ---
-
-![Banner](banner.jpg){: .rounded-10 .shadow}
 
 Video Link : [Here](https://www.youtube.com/watch?v=nbHIH42lUk4)
 

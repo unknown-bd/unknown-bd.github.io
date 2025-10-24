@@ -6,6 +6,8 @@ categories: [Bugs, Steps to Reproduce]
 tags: [wordpress,wp,sqli,sql,injection]
 render_with_liquid: false
 media_subpath: /images/2025-10-21-WP-Ajax-Admin-SQL-Injection
+image:
+  path: UNKNOWN.png
 ---
 
 ## Steps to Reproduce a SQL Injection but on a Wordpress Ajax Admin.
