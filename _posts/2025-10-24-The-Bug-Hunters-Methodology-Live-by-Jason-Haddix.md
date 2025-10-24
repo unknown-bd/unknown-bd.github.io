@@ -335,3 +335,6 @@ Best XSS Methodology
 - IDOR Video  - https://www.youtube.com/watch?v=2WzqH6N-Gbc
 
 ## Day 02 End
+
+> Complete ✅
+{: .prompt-tip}
